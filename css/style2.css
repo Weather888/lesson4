@@ -1,0 +1,101 @@
+body{
+  font-family: Verdana;
+ color: #06389e;
+ background-color: #e6e6e6;
+ margin-top: 0;
+ background-image: url("images/k1.gif");
+ background-repeat: repeat;
+ background-position: top;
+}
+.first{
+  background-color: #6699ff;
+  border-color: #6699ff;
+  border-collapse: collapse;
+  border: 1px;
+  width: 800px;
+  margin: auto auto;
+}
+.tr1 {
+text-align: center;
+vertical-align:middle;
+}
+.td1{
+  width: 100px;
+}
+img{
+  height: 187px;
+  width: 100px;
+  margin-top: 3px;
+  margin-left: 3px;
+}
+h3{
+   margin-top: 0px;
+   margin-bottom: 20px;
+   font-size: x-large;
+}
+h4{
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+h3, h4 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #494d56;
+}
+#shapka, #slogan{
+  font-family: Arial;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+#slogan {padding: 5px 0 5px 0;}
+
+.second{
+  background-color: #6699FF;
+  border-left: 3px solid #69f;
+  border-right: 3px solid #69f;
+  width:800px;
+  margin: 0 auto;
+}
+.tr2{
+  background-color: white;
+  border:1px solid white;
+  border-collapse: collapse;
+}
+  
+.foot{
+  background-color: white;
+  font-size: 0/6em;
+  text-align: justify;
+}
+ul,.content {font-size: 0.7em;}
+ul{
+  font-family: Tahoma;
+  letter-spacing: 1px;
+  line-height: 1.5em;
+}
+.content{
+  padding: 10px 15px 10px 15px;
+  text-align: justify;
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+}
+.content a{
+  text-decoration: none;
+  color: #494d56;
+  font-weight: bolder;
+}
+ol{font-size:0.8em;}
+ol li a{color: gray;}
+
+#adres{
+  color: white;
+  font-size: 10px;
+  text-align: center;
+}
+#adres a{
+  text-decoration: none;
+  color: white;
+}
+
